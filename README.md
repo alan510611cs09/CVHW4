@@ -34,7 +34,12 @@ And download the official PromptIR repository.
 
 <img width="688" height="270" alt="image" src="https://github.com/user-attachments/assets/73f70a42-5f4c-4241-8f76-853a92530cb9" />
 
+## Replace Files
+Replace those files to our custom ones.
 
+1. train.py and demo.py under PromptIR/
+2. dataset_utils.py under PromptIR/utils/
+   
 ## Data management
 After uploading dataset, we need to modify it to specific format for PromptIR training.
 
