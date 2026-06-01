@@ -37,8 +37,8 @@ And download the official PromptIR repository.
 ## Replace Files
 Replace those files to our custom ones.
 
-1. train.py and demo.py under PromptIR/
-2. dataset_utils.py under PromptIR/utils/
+1. **train.py** and **demo.py** under PromptIR/
+2. **dataset_utils.py** under PromptIR/utils/
    
 ## Data management
 After uploading dataset, we need to modify it to specific format for PromptIR training.
