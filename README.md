@@ -47,17 +47,20 @@ After uploading dataset, we need to modify it to specific format for PromptIR tr
 
 ## Training 
 Press the start button to start training model.
+
 <img width="597" height="325" alt="image" src="https://github.com/user-attachments/assets/9f562792-d762-4455-be1b-085f1d27690b" />
 
 
 
 ## Inference
 After training is done, press the start button to start inference.
+
 <img width="775" height="192" alt="image" src="https://github.com/user-attachments/assets/72024836-5bcf-4d4a-a16b-4d04a1cd12da" />
 
 
 ## Generate .npz file
 After inference, convert 100 cleansed images to npz format.
+
 <img width="438" height="257" alt="image" src="https://github.com/user-attachments/assets/9f4b0abb-ba26-491c-8223-49f8453d7bfb" />
 
 
